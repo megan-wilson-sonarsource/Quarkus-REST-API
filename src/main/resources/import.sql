@@ -1,0 +1,12 @@
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'CAT','act',3);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'ACT','act',3);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'ALERTS','aelrst', 6);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'LASTRE','aelrst', 6);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'CINEMA','aceimn', 6);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'ICEMAN','aceimn', 6);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'DOG','dgo', 3);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'GOD','dgo', 3);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'STALE','aelst', 5);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'STEAL','aelst', 5);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'LEAST','aelst', 5);
+INSERT INTO AnagramDictionaryEntry(id, word, word_alphabatized, word_length) VALUES (nextval('hibernate_sequence'),'TALES','aelst', 5);
