@@ -38,6 +38,10 @@ public class AnagramDictionaryEntry extends PanacheEntity {
     }
     public static <T extends PanacheEntityBase> List<T> listAll() {
         return PanacheEntity.listAll();
+        //what should I do about this
+        //idk
+        //delete it
+        //whattheactual fuck
     }
 
 }
