@@ -30,7 +30,6 @@ public class AnagramDictionaryResource {
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
     public Response newAnagramDictionaryEntry(AnagramDictionaryEntry entry) {
-        entry.id = null;
         entry.persist();
         return Response.status(Status.CREATED).entity(entry).build();
     }
