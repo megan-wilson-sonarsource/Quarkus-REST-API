@@ -10,14 +10,14 @@ import io.quarkus.hibernate.orm.panache.PanacheEntity;
 
 @Entity
 public class AnagramDictionaryEntry extends PanacheEntity {
-    @Id @GeneratedValue private Long id;
+    // @Id @GeneratedValue private Long id;
     private String word;
     private String word_alphabatized;
     private int word_length;
 
-    public Long getId(){
-        return id;
-    }
+    // public Long getId(){
+    //     return id;
+    // }
     public String getWord(){
         // create
         return word.toUpperCase();
@@ -29,9 +29,9 @@ public class AnagramDictionaryEntry extends PanacheEntity {
     public int getWord_length(){
         return word_length;
     }
-    public void setId(Long id){
-        this.id = id;
-    }
+    // public void setId(Long id){
+    //     this.id = id;
+    // }
     public void setWord(String input){
         this.word = input.toLowerCase();
     }
