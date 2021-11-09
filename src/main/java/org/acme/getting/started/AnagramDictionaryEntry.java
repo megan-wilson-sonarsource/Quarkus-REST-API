@@ -24,7 +24,6 @@ public class AnagramDictionaryEntry extends PanacheEntity {
     }
     public String getWord_alphabatized(){
         // create
-        System.out.println("hello");
         return word_alphabatized;
     }
     public int getWord_length(){
