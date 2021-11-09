@@ -18,10 +18,6 @@ public class AnagramDictionaryResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public List<AnagramDictionaryEntry> entries() {
- // public List<AnagramDictionaryEntry> entries(@QueryParam("word_length") int length) {
-        // if (length != null) {
-        //     return AnagramDictionaryEntry.findByLength(length);
-        // }
         return AnagramDictionaryEntry.listAll();
     }
 
