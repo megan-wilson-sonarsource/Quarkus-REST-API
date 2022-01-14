@@ -1,5 +1,7 @@
 # getting-started Project
 
+[![Quality Gate Status](https://sonar.tools.sap/api/project_badges/measure?project=com.sap.columbus.las&metric=alert_status)](https://sonar.tools.sap/dashboard?id=com.sap.columbus.las)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
