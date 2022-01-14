@@ -10,9 +10,9 @@ Badge for Private project:
 
 [![Quality Gate Status](https://sonar.tools.sap/api/project_badges/measure?project=com.sap.columbus.las&metric=alert_status)](https://sonar.tools.sap/dashboard?id=com.sap.columbus.las)
 
-8.9.1 : [![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=org.acme%3Agetting-started&metric=alert_status&token=0594dc5ae377d7675ef4e01c2d4b7a63e4c19371)](http://localhost:9000/dashboard?id=org.acme%3Agetting-started)
+8.9.1 : [![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=org.acme%3Agetting-started&metric=alert_status)](http://localhost:9000/dashboard?id=org.acme%3Agetting-started)
 
-Token: 0594dc5ae377d7675ef4e01c2d4b7a63e4c19371
+Token 0594dc5ae377d7675ef4e01c2d4b7a63e4c19371
 
 "id=org.acme%3Agetting-started&amp;"
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
