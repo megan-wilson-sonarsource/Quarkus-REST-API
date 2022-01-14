@@ -1,6 +1,12 @@
 # getting-started Project
+This Project:
+[![Quality Gate Status](https://ee8-megan-us.ngrok.io/api/project_badges/measure?project=org.acme%3Agetting-started&metric=alert_status&token=90571bae843362c7c377b10529cf3c045feb2e0a)](https://ee8-megan-us.ngrok.io/dashboard?id=org.acme%3Agetting-started)
 
-[![Bugs](https://ee8-megan-us.ngrok.io/api/project_badges/measure?project=jHipsterTest&metric=bugs)](https://ee8-megan-us.ngrok.io/dashboard?id=jHipsterTest)
+Badge for jHipsterTest Project Called Myapplication
+[![Vulnerabilities](https://ee8-megan-us.ngrok.io/api/project_badges/measure?project=jHipsterTest&metric=vulnerabilities&token=f6f3d015a17efca1e12c3782d3a9e1d322d979ce)](https://ee8-megan-us.ngrok.io/dashboard?id=jHipsterTest)
+
+Badge for Private project: 
+[![Quality Gate Status](https://ee8-megan-us.ngrok.io/api/project_badges/measure?project=172856_scanner_basic&metric=alert_status&token=0213ceba5a6aa6e5dc6bda50e2026c90dac5b956)](https://ee8-megan-us.ngrok.io/dashboard?id=172856_scanner_basic)
 
 [![Quality Gate Status](https://sonar.tools.sap/api/project_badges/measure?project=com.sap.columbus.las&metric=alert_status)](https://sonar.tools.sap/dashboard?id=com.sap.columbus.las)
 
