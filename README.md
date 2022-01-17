@@ -10,7 +10,9 @@ Badge for Private project:
 
 [![Quality Gate Status](https://sonar.tools.sap/api/project_badges/measure?project=com.sap.columbus.las&metric=alert_status)](https://sonar.tools.sap/dashboard?id=com.sap.columbus.las)
 
-8.9.1 : [![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=org.acme%3Agetting-started&metric=alert_status)](http://localhost:9000/dashboard?id=org.acme%3Agetting-started)
+localhost 8.9.1 : [![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=org.acme%3Agetting-started&metric=alert_status)](http://localhost:9000/dashboard?id=org.acme%3Agetting-started)
+
+localhost 8.9 with ngrok : [![Quality Gate Status](https://ee89-megan-us.ngrok.io/api/project_badges/measure?project=mavenjenk&metric=alert_status)](https://ee89-megan-us.ngrok.io/dashboard?id=mavenjenk) 
 
 Token 0594dc5ae377d7675ef4e01c2d4b7a63e4c19371
 
