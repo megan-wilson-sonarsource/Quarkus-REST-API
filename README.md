@@ -17,6 +17,7 @@ localhost 8.9 with ngrok : [![Quality Gate Status](https://ee89-megan-us.ngrok.i
 Token 0594dc5ae377d7675ef4e01c2d4b7a63e4c19371
 
 "id=org.acme%3Agetting-started&amp;"
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
