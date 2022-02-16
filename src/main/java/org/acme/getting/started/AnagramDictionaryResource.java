@@ -28,6 +28,7 @@ public class AnagramDictionaryResource {
     public Response newAnagramDictionaryEntry(AnagramDictionaryEntry entry) {
         entry.persist();
         return Response.status(Status.CREATED).entity(entry).build();
+        //Add a comment
     }
     
 }

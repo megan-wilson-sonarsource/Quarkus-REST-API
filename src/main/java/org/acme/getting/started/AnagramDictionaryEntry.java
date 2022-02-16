@@ -39,5 +39,6 @@ public class AnagramDictionaryEntry extends PanacheEntity {
     public static <T extends PanacheEntityBase> List<T> listAll() {
         return PanacheEntity.listAll();
     }
+    //need something
 
 }
